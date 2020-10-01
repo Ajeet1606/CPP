@@ -1,0 +1,13 @@
+
+An array in C or C++ is a collection of similar data type items .
+In an array all the elements are stored at contiguous locations they can be accessed using their particular index. 
+Indexes of an array start from 0 to size-1 of array.
+Declarations-
+There are various ways in which we can declare an array. It can be done by specifying its type and size, by initializing it or both.
+datatype arrayname [size];
+Initializing array-
+int array_name [3]={1,2,3};
+Accessing array elements--
+Elements are accessed using their index as,
+array_name [0]=1;
+and all above. 
